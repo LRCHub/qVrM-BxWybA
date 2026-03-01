@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Butterfly",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T14:05:47.434956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butterfly Effect",
+      "artist": "Koven",
+      "has_synced": false,
+      "path": "select/01_Butterfly_Effect_Koven.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butterfly Effect",
+      "artist": "Koven",
+      "has_synced": true,
+      "path": "select/02_Butterfly_Effect_Koven.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butterfly 3000",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Butterfly_3000_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Is Like a Butterfly",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/04_Love_Is_Like_a_Butterfly_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Butterfly",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/05_Butterfly_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "蝴蝶(Butterfly)",
+      "artist": "陶喆",
+      "has_synced": true,
+      "path": "select/06_蝴蝶(Butterfly)_陶喆.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "나비 Butterfly",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/07_나비_Butterfly_f(x).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "나비 (Butterfly)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/08_나비_(Butterfly)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Butterfly Caught - RJD2 Remix",
+      "artist": "Massive Attack feat. RJD2",
+      "has_synced": false,
+      "path": "select/09_Butterfly_Caught_-_RJD2_Remix_Massive_Attack_feat._RJD2.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Butterfly Caught",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Butterfly_Caught_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happiness is a butterfly",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_Happiness_is_a_butterfly_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Butterfly Collector",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/12_Butterfly_Collector_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Garbage - Butterfly collector",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/13_Garbage_-_Butterfly_collector_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blue Butterfly",
+      "artist": "yeule",
+      "has_synced": false,
+      "path": "select/14_Blue_Butterfly_yeule.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Butterfly Paralyzed",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/15_Butterfly_Paralyzed_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Black Butterfly",
+      "artist": "Laura Veirs",
+      "has_synced": false,
+      "path": "select/16_Black_Butterfly_Laura_Veirs.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Butterfly Doors",
+      "artist": "Lil Pump",
+      "has_synced": true,
+      "path": "select/17_Butterfly_Doors_Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sherry and Her Butterfly Net",
+      "artist": "The Most Serene Republic",
+      "has_synced": false,
+      "path": "select/18_Sherry_and_Her_Butterfly_Net_The_Most_Serene_Republic.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Butterfly Collector",
+      "artist": "Noel Gallagher",
+      "has_synced": true,
+      "path": "select/19_The_Butterfly_Collector_Noel_Gallagher.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Butterfly",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_Butterfly_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
